@@ -1,9 +1,9 @@
-# Project Title
+Embellishing my personal website (tiddlywiki) with http is giving  me hemorrhoids.
+031518:843p
 joelsmith.art tiddlywiki interactive portfolio and resume 
 
 please goto https://tiddlywiki.com 
-for a complete guide
-
+for a complete guide. im standing on the shoulders of giants. 
 
 *///////////////////////////////  readme template pasted below /////
 ## Getting Started
